@@ -1,5 +1,6 @@
-Este es un una Pagina web de mi Portafolio Personal
+Este es un una Pagina web de mi Portafolio Personal,Es una colección de proyectos y habilidades y Cursos Realizados como profesional 
 
+Tecnologías utilizadas
 1-PHP
 
 2-github
